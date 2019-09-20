@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rurui\\source\\repos\\RazorPagesMovie\\RazorPagesMovie.csproj": {}
+    "D:\\study\\asp.net-core-learnning\\RazorPagesMovie\\RazorPagesMovie.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rurui\\source\\repos\\RazorPagesMovie\\RazorPagesMovie.csproj": {
+    "D:\\study\\asp.net-core-learnning\\RazorPagesMovie\\RazorPagesMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rurui\\source\\repos\\RazorPagesMovie\\RazorPagesMovie.csproj",
+        "projectUniqueName": "D:\\study\\asp.net-core-learnning\\RazorPagesMovie\\RazorPagesMovie.csproj",
         "projectName": "RazorPagesMovie",
-        "projectPath": "C:\\Users\\rurui\\source\\repos\\RazorPagesMovie\\RazorPagesMovie.csproj",
+        "projectPath": "D:\\study\\asp.net-core-learnning\\RazorPagesMovie\\RazorPagesMovie.csproj",
         "packagesPath": "C:\\Users\\rurui\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rurui\\source\\repos\\RazorPagesMovie\\obj\\",
+        "outputPath": "D:\\study\\asp.net-core-learnning\\RazorPagesMovie\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
