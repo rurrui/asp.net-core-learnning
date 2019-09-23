@@ -18,6 +18,8 @@ namespace RazorPagesMovie.Models
 
         public DbSet<RazorPagesMovie.Models.Test2> Test2 { get; set; }
 
+        public DbSet<RazorPagesMovie.Models.Test> Test { get; set; }
+
         
     }
 }

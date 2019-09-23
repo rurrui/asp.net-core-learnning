@@ -73,3 +73,8 @@ D:\study\asp.net-core-learnning\RazorPagesMovie\obj\Debug\netcoreapp2.2\Razor\Pa
 D:\study\asp.net-core-learnning\RazorPagesMovie\obj\Debug\netcoreapp2.2\Razor\Pages\Tests\Details.g.cshtml.cs
 D:\study\asp.net-core-learnning\RazorPagesMovie\obj\Debug\netcoreapp2.2\Razor\Pages\Tests\Edit.g.cshtml.cs
 D:\study\asp.net-core-learnning\RazorPagesMovie\obj\Debug\netcoreapp2.2\Razor\Pages\Tests\Index.g.cshtml.cs
+D:\study\asp.net-core-learnning\RazorPagesMovie\obj\Debug\netcoreapp2.2\Razor\Pages\Branch\Create.g.cshtml.cs
+D:\study\asp.net-core-learnning\RazorPagesMovie\obj\Debug\netcoreapp2.2\Razor\Pages\Branch\Delete.g.cshtml.cs
+D:\study\asp.net-core-learnning\RazorPagesMovie\obj\Debug\netcoreapp2.2\Razor\Pages\Branch\Details.g.cshtml.cs
+D:\study\asp.net-core-learnning\RazorPagesMovie\obj\Debug\netcoreapp2.2\Razor\Pages\Branch\Edit.g.cshtml.cs
+D:\study\asp.net-core-learnning\RazorPagesMovie\obj\Debug\netcoreapp2.2\Razor\Pages\Branch\Index.g.cshtml.cs
